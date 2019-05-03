@@ -1,0 +1,36 @@
+{
+  "name": "geoip",
+  "version": "0.1.1",
+  "engines": {
+    "node": ">=12.0.0"
+  },
+  "description": "API, geolocation IP",
+  "main": "geoip.js",
+  "keywords": [],
+  "scripts": {
+    "test": "mocha test/*.js --timeout 15000",
+    "start": "node geoip.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jolav/geoip-xyz.git"
+  },
+  "author": "jolav",
+  "license": "BSD-3-Clause",
+  "bugs": {
+    "url": "https://github.com/jolav/geoip-xyz/issues"
+  },
+  "homepage": "https://github.com/jolav/geoip-xyz#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "js2xmlparser": "^4.0.0",
+    "maxmind": "^3.0.3",
+    "mmdb-reader": "^1.2.0",
+    "mysql": "^2.17.1"
+  },
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "chai-http": "^4.3.0",
+    "chai-xml": "^0.3.2"
+  }
+}

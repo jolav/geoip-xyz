@@ -1,22 +1,26 @@
 # Ignore these directories
 _aux/
 logs/
+node_modules/
 tmp/
-_data
 
 # Ignore these files
 .env
 .DS_Store
 _private.js
 _private.json
-a_private.go
+ecosystem.config.js
 error.log
 hits.log
 
 
-# binaries
-geoip
-geoip-*
-
 # databases
 _data/GeoLite2-City.mmdb
+
+
+
+
+
+
+
+

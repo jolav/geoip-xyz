@@ -1,10 +1,8 @@
 /* global L value1 value2 value3 value4 value5 value6 value7 */
 const geoip = (function () {
-  'use strict';
-  /* code here */
 
-  //let geoipUrl = 'http://localhost:3000/v1/geoip/json';
-  let geoipUrl = 'https://geoip.xyz/v1/json';
+  //const geoipUrl = 'http://localhost:3000/json';
+  const geoipUrl = 'https://geoip.xyz/v1/json';
   let q = '';
 
   function init() {
@@ -55,7 +53,7 @@ const geoip = (function () {
         }
       }
     };
-    xhr.open('GET', urlData); // add false to synchronous request
+    xhr.open('GET', urlData);
     xhr.send();
   }
 
