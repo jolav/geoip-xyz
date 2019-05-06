@@ -3,7 +3,7 @@ package main
 var configjson = []byte(`
 {
   "app": {
-    "version": "0.1.1",
+    "version": "0.1.2",
     "mode": "production",
     "port": 3700,
 		"hitslog":"./logs/hits.log",

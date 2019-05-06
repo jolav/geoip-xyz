@@ -1,11 +1,11 @@
 
-![Version](https://img.shields.io/badge/version-0.1.1-orange.svg)  
+![Version](https://img.shields.io/badge/version-0.1.2-orange.svg)  
 ![Maintained YES](https://img.shields.io/badge/Maintained%3F-YES-green.svg)  
 ![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)  
 
 # ![logo](https://github.com/jolav/geoip-xyz/blob/master/www/_public/icons/ip48.png?raw=true) **[GEOIP.XYZ](https://geoip.xyz)** 
 
-version 0.1.1
+version 0.1.2
 
 - Free service that provides a public secure API (CORS enabled) to retrieve geolocation from any IP or hostname.  
 - 10 request per second. Once reached subsequent requests will result in error 429 until your quota is cleared.  
