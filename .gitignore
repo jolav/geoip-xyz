@@ -9,18 +9,12 @@ tmp/
 .DS_Store
 _private.js
 _private.json
-a_private.go
-ecosystem.config.js
 errors.log
 hits.log
-
 
 # databases
 _data/GeoLite2-City.mmdb
 
-# binaries
-geoip
-geoip-*
 
 
 
