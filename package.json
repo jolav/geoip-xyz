@@ -1,6 +1,6 @@
 {
   "name": "geoip",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "engines": {
     "node": ">=12.0.0"
   },
@@ -22,11 +22,10 @@
   },
   "homepage": "https://github.com/jolav/geoip-xyz#readme",
   "dependencies": {
-    "express": "^4.16.4",
+    "express": "^4.17.1",
     "js2xmlparser": "^4.0.0",
-    "maxmind": "^3.0.3",
-    "mmdb-reader": "^1.2.0",
-    "mysql": "^2.17.1"
+    "maxmind": "^3.0.4",
+    "mmdb-reader": "^1.2.0"
   },
   "devDependencies": {
     "chai": "^4.2.0",
