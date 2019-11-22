@@ -24,7 +24,7 @@
   "dependencies": {
     "express": "^4.17.1",
     "js2xmlparser": "^4.0.0",
-    "maxmind": "^3.0.4",
+    "maxmind": "^4.0.0",
     "mmdb-reader": "^1.2.0"
   },
   "devDependencies": {
