@@ -1,9 +1,12 @@
 
-![Version](https://img.shields.io/badge/version-0.1.4-orange.svg)  
-![Maintained YES](https://img.shields.io/badge/Maintained%3F-YES-green.svg)  
-![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)  
+![Maintained no](https://img.shields.io/badge/Maintained%3F-NO-red.svg)  
 
-# ![logo](https://github.com/jolav/geoip-xyz/blob/master/www/_public/icons/ip48.png?raw=true) **[GEOIP.XYZ](https://geoip.xyz)** 
+---
+# **THE PROJECT CONTINUES MERGED INTO [CODETABS](https://github.com/jolav/codetabs)** 
+---
+
+
+## ![logo](https://github.com/jolav/geoip-xyz/blob/master/www/_public/icons/ip48.png?raw=true) **[IP GEOLOCATION](https://codetabs.com/ip-geolocation/ip-geolocation.html)** 
 
 version 0.1.4
 
@@ -17,10 +20,10 @@ version 0.1.4
 
 Examples
 
-https://geoip.xyz/v1/json  
-https://geoip.xyz/v1/json?q=codetabs.com  
-https://geoip.xyz/v1/xml?q=8.8.8.8  
-https://geoip.xyz/v1/xml?q=2a00:1450:4006:803::200e  
+https://api.codetabs.com/v1/geolocation/json  
+https://api.codetabs.com/v1/geolocation/json?q=codetabs.com  
+https://api.codetabs.com/v1/geolocation/xml?q=8.8.8.8  
+https://api.codetabs.com/v1/geolocation/xml?q=2a00:1450:4006:803::200e  
 
 Response JSON :
 
